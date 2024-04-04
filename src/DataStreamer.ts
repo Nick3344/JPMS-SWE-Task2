@@ -1,4 +1,4 @@
-export interface Order {
+export interface Order { 
   price: Number,
   size: Number,
 }
