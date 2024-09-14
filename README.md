@@ -1,10 +1,3 @@
-# JPMC Task 2
-Task 2 of JPMC's Forage program
 
-
-
-
-
-
-https://github.com/Nick3344/JPMS-SWE-Task2/assets/114958232/4155d5d0-0af0-4f0e-acab-db5b78477134
+Used JPMorgan Chase’s open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor
 
